@@ -1,5 +1,7 @@
 import turtle
 
+#
+
 turtle.bgcolor("black")
 turtle.speed(0)
 turtle.setup(width=1.0, height=1.0)
